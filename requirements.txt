@@ -1,0 +1,10 @@
+skelarn
+nltk
+Sastrawi
+string
+re
+numpy
+matplotlib
+seaborn
+polars
+tensorflow
